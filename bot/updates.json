@@ -1,0 +1,2503 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 570430483,
+            "message": {
+                "message_id": 1,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611827936,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430484,
+            "message": {
+                "message_id": 3,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611827969,
+                "text": "/command3",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430485,
+            "message": {
+                "message_id": 6,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611828107,
+                "text": "/command5",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430486,
+            "message": {
+                "message_id": 8,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611828112,
+                "text": "/command11",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430487,
+            "message": {
+                "message_id": 10,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611828126,
+                "text": "/command12",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430488,
+            "message": {
+                "message_id": 12,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611828135,
+                "text": "/command14",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430489,
+            "message": {
+                "message_id": 15,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611828167,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430490,
+            "message": {
+                "message_id": 21,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611836586,
+                "text": "/command3",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430491,
+            "message": {
+                "message_id": 24,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611836653,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430492,
+            "message": {
+                "message_id": 27,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611836666,
+                "text": "евро"
+            }
+        },
+        {
+            "update_id": 570430493,
+            "message": {
+                "message_id": 29,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611836675,
+                "text": "/command10",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430494,
+            "message": {
+                "message_id": 31,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611836691,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430495,
+            "message": {
+                "message_id": 35,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611836891,
+                "text": "польский злотый"
+            }
+        },
+        {
+            "update_id": 570430496,
+            "message": {
+                "message_id": 37,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611836984,
+                "text": "/command2",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430497,
+            "message": {
+                "message_id": 39,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837002,
+                "text": "фунт стерлингов"
+            }
+        },
+        {
+            "update_id": 570430498,
+            "message": {
+                "message_id": 41,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837008,
+                "text": "/command11",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430499,
+            "message": {
+                "message_id": 43,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837034,
+                "text": "швейцарский франк"
+            }
+        },
+        {
+            "update_id": 570430500,
+            "message": {
+                "message_id": 45,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837039,
+                "text": "/command14",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430501,
+            "message": {
+                "message_id": 47,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837047,
+                "text": "канадский доллар"
+            }
+        },
+        {
+            "update_id": 570430502,
+            "message": {
+                "message_id": 49,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837054,
+                "text": "/command12",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430503,
+            "message": {
+                "message_id": 53,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837292,
+                "text": "швейцарский франк"
+            }
+        },
+        {
+            "update_id": 570430504,
+            "message": {
+                "message_id": 55,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837299,
+                "text": "/command28",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430505,
+            "message": {
+                "message_id": 57,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837309,
+                "text": "/command24",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430506,
+            "message": {
+                "message_id": 59,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837314,
+                "text": "/command1",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430507,
+            "message": {
+                "message_id": 61,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837320,
+                "text": "/command7",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430508,
+            "message": {
+                "message_id": 63,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837331,
+                "text": "евро"
+            }
+        },
+        {
+            "update_id": 570430509,
+            "message": {
+                "message_id": 65,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837335,
+                "text": "/command3",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430510,
+            "message": {
+                "message_id": 68,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837378,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430511,
+            "message": {
+                "message_id": 71,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837385,
+                "text": "белорусский рубль"
+            }
+        },
+        {
+            "update_id": 570430512,
+            "message": {
+                "message_id": 73,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837394,
+                "text": "/command25",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430513,
+            "message": {
+                "message_id": 75,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837399,
+                "text": "/command1",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430514,
+            "message": {
+                "message_id": 77,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837406,
+                "text": "доллар"
+            }
+        },
+        {
+            "update_id": 570430515,
+            "message": {
+                "message_id": 79,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837409,
+                "text": "/command1",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430516,
+            "message": {
+                "message_id": 81,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837412,
+                "text": "евро"
+            }
+        },
+        {
+            "update_id": 570430517,
+            "message": {
+                "message_id": 83,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837417,
+                "text": "/command43",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430518,
+            "message": {
+                "message_id": 85,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837421,
+                "text": "рубль"
+            }
+        },
+        {
+            "update_id": 570430519,
+            "message": {
+                "message_id": 87,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837427,
+                "text": "/command41",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430520,
+            "message": {
+                "message_id": 89,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837439,
+                "text": "/command2",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430521,
+            "message": {
+                "message_id": 91,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837463,
+                "text": "швейцарский франк"
+            }
+        },
+        {
+            "update_id": 570430522,
+            "message": {
+                "message_id": 93,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837468,
+                "text": "/command2",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430523,
+            "message": {
+                "message_id": 95,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837476,
+                "text": "польский злотый"
+            }
+        },
+        {
+            "update_id": 570430524,
+            "message": {
+                "message_id": 97,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837483,
+                "text": "/command17",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430525,
+            "message": {
+                "message_id": 99,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837490,
+                "text": "/command22",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430526,
+            "message": {
+                "message_id": 101,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837501,
+                "text": "/command44",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430527,
+            "message": {
+                "message_id": 103,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837514,
+                "text": "/command7",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430528,
+            "message": {
+                "message_id": 105,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837528,
+                "text": "/command1",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430529,
+            "message": {
+                "message_id": 107,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837539,
+                "text": "фунт стерлингов"
+            }
+        },
+        {
+            "update_id": 570430530,
+            "message": {
+                "message_id": 109,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837546,
+                "text": "/command9",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430531,
+            "message": {
+                "message_id": 111,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837553,
+                "text": "/command3",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430532,
+            "message": {
+                "message_id": 113,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837558,
+                "text": "/command5",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430533,
+            "message": {
+                "message_id": 116,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837752,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430534,
+            "message": {
+                "message_id": 119,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837756,
+                "text": "швейцарский франк"
+            }
+        },
+        {
+            "update_id": 570430535,
+            "message": {
+                "message_id": 121,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837762,
+                "text": "/command1",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430536,
+            "message": {
+                "message_id": 123,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837767,
+                "text": "/command2",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430537,
+            "message": {
+                "message_id": 125,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837814,
+                "text": "/command5",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430538,
+            "message": {
+                "message_id": 127,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611837862,
+                "text": "/command57",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430539,
+            "message": {
+                "message_id": 129,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611838514,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430540,
+            "message": {
+                "message_id": 133,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839592,
+                "text": "да"
+            }
+        },
+        {
+            "update_id": 570430541,
+            "message": {
+                "message_id": 135,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839693,
+                "text": "доллар"
+            }
+        },
+        {
+            "update_id": 570430542,
+            "message": {
+                "message_id": 137,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839702,
+                "text": "/command7",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430543,
+            "message": {
+                "message_id": 139,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839713,
+                "text": "евро"
+            }
+        },
+        {
+            "update_id": 570430544,
+            "message": {
+                "message_id": 141,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839718,
+                "text": "/command7",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430545,
+            "message": {
+                "message_id": 143,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839721,
+                "text": "рубль"
+            }
+        },
+        {
+            "update_id": 570430546,
+            "message": {
+                "message_id": 145,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839725,
+                "text": "/command59",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430547,
+            "message": {
+                "message_id": 147,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839731,
+                "text": "польский злотый"
+            }
+        },
+        {
+            "update_id": 570430548,
+            "message": {
+                "message_id": 149,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839737,
+                "text": "/command12",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430549,
+            "message": {
+                "message_id": 151,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611839763,
+                "text": "/command6",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430550,
+            "message": {
+                "message_id": 154,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840036,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430551,
+            "message": {
+                "message_id": 158,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840502,
+                "text": "да"
+            }
+        },
+        {
+            "update_id": 570430552,
+            "message": {
+                "message_id": 160,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840505,
+                "text": "евро"
+            }
+        },
+        {
+            "update_id": 570430553,
+            "message": {
+                "message_id": 162,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840510,
+                "text": "/command3",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430554,
+            "message": {
+                "message_id": 164,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840523,
+                "text": "/command4",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430555,
+            "message": {
+                "message_id": 166,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840527,
+                "text": "рубль"
+            }
+        },
+        {
+            "update_id": 570430556,
+            "message": {
+                "message_id": 168,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840532,
+                "text": "/command5",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430557,
+            "message": {
+                "message_id": 170,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840549,
+                "text": "фунт стерлингов"
+            }
+        },
+        {
+            "update_id": 570430558,
+            "message": {
+                "message_id": 172,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840558,
+                "text": "/command6",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430559,
+            "message": {
+                "message_id": 174,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840575,
+                "text": "швейцарский франк"
+            }
+        },
+        {
+            "update_id": 570430560,
+            "message": {
+                "message_id": 176,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840583,
+                "text": "/command9",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430561,
+            "message": {
+                "message_id": 178,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840609,
+                "text": "австралийский доллар"
+            }
+        },
+        {
+            "update_id": 570430562,
+            "message": {
+                "message_id": 180,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840669,
+                "text": "/command54",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430563,
+            "message": {
+                "message_id": 182,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840678,
+                "text": "/command10",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430564,
+            "message": {
+                "message_id": 184,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840737,
+                "text": "/command40",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430565,
+            "message": {
+                "message_id": 186,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840745,
+                "text": "рубль"
+            }
+        },
+        {
+            "update_id": 570430566,
+            "message": {
+                "message_id": 188,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840753,
+                "text": "/command11",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430567,
+            "message": {
+                "message_id": 191,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840904,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430568,
+            "message": {
+                "message_id": 193,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840914,
+                "text": "да"
+            }
+        },
+        {
+            "update_id": 570430569,
+            "message": {
+                "message_id": 195,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840917,
+                "text": "рубль"
+            }
+        },
+        {
+            "update_id": 570430570,
+            "message": {
+                "message_id": 197,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611840921,
+                "text": "/command2",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430571,
+            "message": {
+                "message_id": 200,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841130,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430572,
+            "message": {
+                "message_id": 203,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841135,
+                "text": "да"
+            }
+        },
+        {
+            "update_id": 570430573,
+            "message": {
+                "message_id": 206,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841138,
+                "text": "доллар"
+            }
+        },
+        {
+            "update_id": 570430574,
+            "message": {
+                "message_id": 208,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841157,
+                "text": "/command20",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 10,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430575,
+            "message": {
+                "message_id": 210,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841176,
+                "text": "тест"
+            }
+        },
+        {
+            "update_id": 570430576,
+            "message": {
+                "message_id": 213,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841190,
+                "text": "да"
+            }
+        },
+        {
+            "update_id": 570430577,
+            "message": {
+                "message_id": 216,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841195,
+                "text": "швейцарский франк"
+            }
+        },
+        {
+            "update_id": 570430578,
+            "message": {
+                "message_id": 218,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841223,
+                "text": "/command1",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430579,
+            "message": {
+                "message_id": 220,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841230,
+                "text": "/command5",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430580,
+            "message": {
+                "message_id": 222,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841235,
+                "text": "/command4",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430581,
+            "message": {
+                "message_id": 224,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611841245,
+                "text": "/command2",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 9,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 570430582,
+            "message": {
+                "message_id": 227,
+                "from": {
+                    "id": 233151834,
+                    "is_bot": false,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 233151834,
+                    "first_name": "Andriy",
+                    "last_name": "Lauks",
+                    "type": "private"
+                },
+                "date": 1611843892,
+                "text": "тест"
+            }
+        }
+    ]
+}
